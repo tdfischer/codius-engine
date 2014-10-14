@@ -16,7 +16,7 @@
     "bitcoinjs-lib": "1.0.1",
     "ecurve": "^1.0.0",
     "extend": "~1.3.0",
-    "codius-sandbox": "tdfischer/codius-sandbox"
+    "codius-sandbox": "tdfischer/codius-sandbox#node-module"
   },
   "devDependencies": {
     "chai": "^1.9.1",
